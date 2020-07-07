@@ -17,7 +17,7 @@ function Time_function() {
 var A = 11;
 function Add_numbers_1() {
     var B = 21;
-    console.log (11 + B);
+    console.log (79 + B);
 }
 function Add_numbers_2() {
     console.log(B + A);
