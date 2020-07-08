@@ -17,10 +17,10 @@ function Time_function() {
 var A = 11;
 function Add_numbers_1() {
     var B = 21;
-    console.log (79 + B);
+    console.log (A + B);
 }
 function Add_numbers_2() {
-    console.log(B + A);
+    console.log(32 + A);
 }
 Add_numbers_1();
 Add_numbers_2();
